@@ -1,1 +1,0 @@
-ALTER TABLE sunworld.banner_groups ADD is_delete TINYINT DEFAULT false NULL;
