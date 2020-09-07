@@ -1,0 +1,78 @@
+{
+  "Status": true,
+  "ServerTime": "2019-09-20 03:31:08",
+  "Message": "Hi\u1ec3n th\u1ecb th\u00f4ng tin s\u1ea3n ph\u1ea9m th\u00e0nh c\u00f4ng",
+  "Data": {
+    "Products": [
+      {
+        "ProductId": "913AEDF2-0517-40DE-9E00-3D70207666AC",
+        "VgsProductId": "77566824-B503-4DA1-6D34-01558BC6608A",
+        "ProductName": "Cable Car (Adult)",
+        "ProductCode": "CC-1D-ADM-AD-PM",
+        "Price": 728000,
+        "Languages": [
+          {
+            "ObjLanguage": "en",
+            "ObjValue": "Cable Car Adult",
+            "Description": "vn"
+          },
+          {
+            "ObjLanguage": "vn",
+            "ObjValue": "C\u00e1p treo ng\u01b0\u1eddi l\u1edbn",
+            "Description": "en"
+          }
+        ],
+        "Policies": [],
+        "IncreasePercent": "50",
+        "DecreasePercent": "50"
+      },
+      {
+        "ProductId": "BAEF6803-06BC-43FF-9F10-F9EA16C1F047",
+        "VgsProductId": "B398F9D1-6048-84F8-11D2-016CDC37FC97",
+        "ProductName": "Cable Car Virtual",
+        "ProductCode": "CC-TV-HLC",
+        "Price": 100000,
+        "Languages": [
+          {
+            "ObjLanguage": "vn",
+            "ObjValue": "C\u00e1p treo ng\u01b0\u1eddi l\u1edbn 100k",
+            "Description": ""
+          },
+          {
+            "ObjLanguage": "en",
+            "ObjValue": "Cable Car Adult 100k",
+            "Description": ""
+          }
+        ],
+        "Policies": [
+          {
+            "PolicyId": "96F6C06D-5F74-49AF-9DF5-391C087A0F79",
+            "FacilityId": "321CB9D4-33AA-47D2-86C5-83EE8619F238",
+            "Category": "Product",
+            "Type": "DayHour",
+            "Name": null,
+            "Description": "",
+            "Code": "current_hour_day",
+            "Expression": true,
+            "Value": "",
+            "Output": "",
+            "Status": "1",
+            "CreatedBy": "1D9A51AB-AD5A-41CB-B701-2838CFBEA932",
+            "CreatedDate": "2019-09-06 14:35:55.497",
+            "LastChangedDate": "2019-09-06 18:06:50.850",
+            "LastChangedBy": "1D9A51AB-AD5A-41CB-B701-2838CFBEA932",
+            "ValidFrom": "2019-09-03 00:00:00.000",
+            "ValidTo": "2019-09-26 00:00:00.000",
+            "pivot": {
+              "ProductId": "BAEF6803-06BC-43FF-9F10-F9EA16C1F047",
+              "PolicyId": "96F6C06D-5F74-49AF-9DF5-391C087A0F79"
+            }
+          }
+        ],
+        "IncreasePercent": "50",
+        "DecreasePercent": "50"
+      }
+    ],
+    "PerformanceId": "A92BE764-FCD7-63B0-5AD1-016CB54021D6"
+  }
+}

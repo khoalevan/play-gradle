@@ -1,0 +1,23 @@
+
+facility_not_found_in_cache=Không tìm thấy dữ liệu sản phẩm. Xin vui lòng thực hiện tìm kiếm lại hoặc liên hệ với chúng tôi để được hỗ trợ [01]
+facility_not_found_in_database=Không tìm thấy dữ liệu sản phẩm. Xin vui lòng thực hiện tìm kiếm lại hoặc liên hệ với chúng tôi để được hỗ trợ [02]
+facility_search_not_found_in_cache=Không tìm thấy dữ liệu sản phẩm. Xin vui lòng thực hiện tìm kiếm lại hoặc liên hệ với chúng tôi để được hỗ trợ [03] 
+product_not_found_in_cache=Không tìm thấy dữ liệu sản phẩm. Xin vui lòng thực hiện tìm kiếm lại hoặc liên hệ với chúng tôi để được hỗ trợ [04]
+qr_code_generate_failed=Có lỗi xảy ra trong quá trình đặt vé. Vui lòng liên hệ với chúng tôi để được hỗ trợ [05]
+booking_not_found=Không tìm thấy đơn hàng cần thanh toán. Xin vui lòng thử lại hoặc liên hệ với chúng tôi để được hỗ trợ [06]
+get_sunworld_order_id_failed=Có lỗi xảy ra trong quá trình đặt vé. Vui lòng liên hệ với chúng tôi để được hỗ trợ [07]
+check_booking_status_booking_not_found=Không tìm thấy đơn hàng cần thanh toán. Xin vui lòng thử lại hoặc liên hệ với chúng tôi để được hỗ trợ [08]
+payment_information_not_found=Có lỗi xảy ra trong quá trình lấy thông tin thanh toán. Vui lòng liên hệ với chúng tôi để được hỗ trợ [09]
+general_error=Có lỗi xảy ra trong quá trình xử lý. Vui lòng liên hệ chúng tôi để được hỗ trợ.
+user_not_exit=Có lỗi xảy ra. Tài khoản không tồn tại
+user_not_exit1=Người dùng chưa đc đăng ký tại hệ thống
+user_not_active=Có lỗi xảy ra. Nguyên nhân: Tài khoản chưa được active
+user_not_active1=Tài khoản bị khóa, vui lòng liên hệ quản trị viên để được hỗ trợ
+otp_incorrect=Có lỗi xảy ra. Nguyên nhân: Sai OTP hoặc đã hết hạn
+change_pass_failed=Đổi mật khẩu không thành công. Vui lòng thử lại sau
+user_name_pass_incorrect=Tên đăng nhập hoặc mật khẩu không chính xác, vui lòng kiểm tra lại
+user_name_pass_incorrect1=Tên hoặc mật khẩu không đúng định dạng, vui lòng kiểm tra lại.
+permission_change=Quyền của bạn vừa được thay đổi. Vui lòng đăng nhập lại
+permission_sales=Account không có quyền bán hàng, vui lòng liên hệ quản trị viên để được hỗ trợ
+
+create_booking_failed = Lỗi khởi tạo đơn hàng.

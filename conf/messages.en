@@ -1,0 +1,23 @@
+
+facility_not_found_in_cache=Product data is not found. Please try again or contact us for support [01]
+facility_not_found_in_database=Product data is not found. Please try again or contact us for support [02]
+facility_search_not_found_in_cache=Product data is not found. Please try again or contact us for support [03]
+product_not_found_in_cache=Product data is not found. Please try again or contact us for support [04]
+qr_code_generate_failed=There was a booking error. Please contact us for support [05]
+booking_not_found=Booking is not found. Please contact us for support [06]
+get_sunworld_order_id_failed=There was a booking error. Please contact us for support [07]
+check_booking_status_booking_not_found=Booking is not found. Please contact us for support [08]
+payment_information_not_found=There was an error while getting payment info. Please contact us for support [09]
+general_error=An unexpected error occured. Please contact us for support.
+user_not_exit=An error occurred. User name does not exist
+user_not_exit1=User name hasn't been registered on the system
+user_not_active=An error occurred. User name does not active
+user_not_active1=User name is blocked. Please contact the administrator
+otp_incorrect=An error occurred. OTP is incorrect or expried 
+change_pass_failed=Failed to change password. Please try again.
+user_name_pass_incorrect=User name or password is incorrect. Please check again.
+user_name_pass_incorrect1=User name or password is incorrect. Please check again.
+permission_change=Your permission has just been change. Please sign in again
+permission_sales=Your account is not authorized to sell, please contact your administrator for assistance
+
+create_booking_failed = Failed to create order.

@@ -1,0 +1,1 @@
+GRADLE_OPTS="-Dorg.gradle.daemon=false" ./gradlew stage
